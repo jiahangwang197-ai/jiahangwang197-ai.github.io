@@ -1,10 +1,8 @@
-title: jiahangwang197-ai
-email: jiahangwang197@gmail.com
+
 description: >-
   欢迎来到我的个人主页！这里记录我的技术笔记与生活随想。
 baseurl: ""
 url: "https://jiahangwang197-ai.github.io"
-github_username: jiahangwang197-ai
 
 # 主题
 theme: minima
@@ -12,10 +10,6 @@ theme: minima
 # 导航链接
 header_pages:
   - about.md
-
-# 社交媒体链接（可选）
-# twitter_username: your_twitter
-# linkedin_username: your_linkedin
 
 # Minima 主题设置
 minima:
